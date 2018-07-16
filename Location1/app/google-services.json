@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1004151464367",
+    "firebase_url": "https://mapapp-43cb3.firebaseio.com",
+    "project_id": "mapapp-43cb3",
+    "storage_bucket": "mapapp-43cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004151464367:android:53c2e3a67ad6f1fc",
+        "android_client_info": {
+          "package_name": "com.example.android.location1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004151464367-q91khv49ogu3ii04dm87us649c9drcjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.location1",
+            "certificate_hash": "02eb9da88762eddcf1f8ddbbdba6154ff44e4b19"
+          }
+        },
+        {
+          "client_id": "1004151464367-cpi2sid4ftittj595a0skov1rh1rd29n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1004151464367-cpi2sid4ftittj595a0skov1rh1rd29n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyyoHr_bVlgJTCgFvVLJicu8d3_UJuEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004151464367-cpi2sid4ftittj595a0skov1rh1rd29n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004151464367:android:391cf241511f54ee",
+        "android_client_info": {
+          "package_name": "com.example.android.streetview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004151464367-1bimh8nqcrl5irbe9rm7mpjjur7ubrv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.streetview",
+            "certificate_hash": "02eb9da88762eddcf1f8ddbbdba6154ff44e4b19"
+          }
+        },
+        {
+          "client_id": "1004151464367-cpi2sid4ftittj595a0skov1rh1rd29n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1004151464367-cpi2sid4ftittj595a0skov1rh1rd29n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyyoHr_bVlgJTCgFvVLJicu8d3_UJuEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004151464367-cpi2sid4ftittj595a0skov1rh1rd29n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
